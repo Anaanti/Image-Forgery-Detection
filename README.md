@@ -22,7 +22,7 @@ This project provides an easy-to-use web interface for detecting potential image
 - **Backend**: Flask (Python)
 - **ML Framework**: PyTorch
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
-- **Model Architecture**: Custom CNN-based discriminator
+- **Model Architecture**: Custom GAN-based discriminator
 
 ##  Requirements
 
