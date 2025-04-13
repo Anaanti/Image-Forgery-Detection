@@ -4,7 +4,7 @@ A deep learning-based web application that analyzes images to detect potential m
 
 ##  Overview
 
-This project provides an easy-to-use web interface for detecting potential image manipulations, forgeries, or AI-generated content. It utilizes a convolutional neural network (CNN) trained to distinguish between authentic and manipulated images.
+This project provides an easy-to-use web interface for detecting potential image manipulations, forgeries, or AI-generated content. It utilizes a GAN(Generative Adversarial Network) trained to distinguish between authentic and manipulated images.
 
 ![Screenshot of the application](images/screenshot.jpg)
 
